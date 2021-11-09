@@ -1,8 +1,12 @@
 👋 Hi, I’m Alwin Christie
 
-🌱 I’m currently learning Python
+**Little bit about me**
 
-📫 How to reach me : alwingeorgechristie@gmail.com  
+* 🎓 I’m currently studying Computer Programming and Analysis course at Georgian College
+
+* 🌱 I’m currently learning Python
+
+* 📫 How to reach me : alwingeorgechristie@gmail.com  
 
 <!---
 AlwinGC/AlwinGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

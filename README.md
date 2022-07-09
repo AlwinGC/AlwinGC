@@ -4,7 +4,7 @@
 
 * 🎓 I’m currently studying Computer Programming and Analysis course at Georgian College
 
-* 🌱 I’m currently learning Python
+* 🌱 I’m currently learning React
 
 * 📫 How to reach me : alwingeorgechristie@gmail.com  
 

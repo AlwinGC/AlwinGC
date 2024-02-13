@@ -2,9 +2,9 @@
 
 **Little bit about me**
 
-* 🎓 I’m currently studying Computer Programming and Analysis course at Georgian College
+* 🎓 I’ve completed my Computer Programming course at Georgian College
 
-* 🌱 I’m currently learning React⚛️
+* 🌱 I’m currently learning advanced concepts in Python and React.
 
 <!---
 AlwinGC/AlwinGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
